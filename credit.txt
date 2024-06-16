@@ -7,3 +7,4 @@ SiYuanHeiTi Font Pack: RienneYu
 在它的基础上添加了以下模组的翻译：
 ·ias
 ·rrls
+·enhancedblockentities

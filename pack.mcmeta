@@ -2,6 +2,6 @@
   "pack": {
     "pack_format": 18,
 		"supported_formats": [15, 999],
-    "description":"FriendE"
+    "description":"多模组翻译资源包"
   }
 }

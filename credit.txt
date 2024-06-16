@@ -1,3 +1,9 @@
 Masa's mods translation files: 醉梦巅峰 https://space.bilibili.com/13205801
 Xaero's mods translation files: T神奇 https://space.bilibili.com/1840039653
 SiYuanHeiTi Font Pack: RienneYu
+
+改自 XPlus 翻译资源包
+
+在它的基础上添加了以下模组的翻译：
+·ias
+·rrls
